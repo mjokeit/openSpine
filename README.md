@@ -1,7 +1,7 @@
 # openSpine
 This is a placeholder for an open musculoskeletal spine model wirtten in Python (or Matlab)
 
-With this project we like to address the limitations of OpenSim as mentioned here: [OpenSim docs](https://simtk-confluence.stanford.edu:8443/display/OpenSim/Scripting){:target="_blank"}
+With this project we like to address the limitations of OpenSim as mentioned here: [OpenSim docs](https://simtk-confluence.stanford.edu:8443/display/OpenSim/Scripting)
 
 > Limitations
 > - In general, you cannot create new components (e.g., a custom muscle; though there are some exceptions).
